@@ -1,13 +1,12 @@
 import React from 'react'
 import Banner from '../banner/banner'
 
-const Home = () => {
+const HomePage = () => {
     return (
         <div>
-            Home page of pricing gen
             <Banner></Banner>
         </div>
     )
 }
 
-export default Home
+export default HomePage

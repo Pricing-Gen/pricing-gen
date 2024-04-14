@@ -1,11 +1,11 @@
 
-import { Button } from "@/components/ui/button"
+import HomePage from "@/components/home/home/homepage";
 
 export default function Home() {
   return (
     <div className="container mx-auto">
-      <Home></Home>
-
+      <HomePage></HomePage>
+      {/* homepage */}
     </div>
   );
 }
